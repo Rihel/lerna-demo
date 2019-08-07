@@ -1,6 +1,6 @@
 {
   "name": "slogan",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -10,7 +10,7 @@
   "main": "src/index.js",
   "dependencies": {
     "core-js": "^2.6.5",
-    "list-view": "^0.1.0",
+    "list-view": "^0.0.1",
     "vue": "^2.6.10"
   },
   "devDependencies": {
